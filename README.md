@@ -126,7 +126,7 @@ anistream/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd anistream
+   cd glowing-octo-chainsaw
    ```
 
 2. **Start infrastructure services**
